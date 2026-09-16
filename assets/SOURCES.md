@@ -1,0 +1,1 @@
+Visual assets and opening animation: https://sponsalia.app/preview/bloom (Bloom template). Downloaded from the public preview for the requested visual adaptation. Pinyon Script, Sacramento, and Cormorant Garamond are the preview font families.
